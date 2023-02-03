@@ -1,0 +1,7 @@
+{
+  "body": "Yo this is another comment",
+  "visibility": {
+    "type": "role",
+    "value": "Administrators"
+  }
+}
