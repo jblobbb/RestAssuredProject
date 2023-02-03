@@ -1,3 +1,7 @@
+package Courses;
+
+import GoogleAPI.Payload;
+import GoogleAPI.ReusableMethods;
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import org.testng.annotations.DataProvider;

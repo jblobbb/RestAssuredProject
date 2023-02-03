@@ -1,3 +1,5 @@
+package GoogleAPI;
+
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;

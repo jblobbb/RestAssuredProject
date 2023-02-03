@@ -1,3 +1,5 @@
+package GoogleAPI;
+
 import io.restassured.path.json.JsonPath;
 
 public class ReusableMethods {

@@ -1,3 +1,5 @@
+package GoogleAPI;
+
 public class Payload {
 
     public static String addPlace() {
