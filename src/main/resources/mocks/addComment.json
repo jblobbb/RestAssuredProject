@@ -1,5 +1,5 @@
 {
-  "body": "Yo this is another comment",
+  "body": "This is the expected message",
   "visibility": {
     "type": "role",
     "value": "Administrators"
